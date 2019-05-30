@@ -1,0 +1,31 @@
+	.md .item-input-focused .item-input-wrap:after,.md .input-focused:after {
+		background: #263949;
+	}
+	.md .item-input-focused .item-label,.md .item-input-focused .item-floating-label {
+		color: #263949;
+	}
+  .homebg .page-content{
+    background: url("../images/rob/6.jpg") !important;
+    background-size: 100% 100% !important;
+
+  }
+  #boundStatus .md .list .item-header{
+    font-size: 4vw!important;
+  }
+  #boundStatus .item-title{
+    font-size: 7vw;
+  }
+  /*#boundStatus .item-after{*/
+    /*font-size: 4vw!important;*/
+    /*color: #00d8a0;*/
+  /*}*/
+  .photo{
+    position: relative;
+  }
+  .photo{
+    height: 250px;
+  }
+  .photo img{
+    height: 100%;
+    width: 100%;
+  }
