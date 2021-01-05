@@ -31,7 +31,7 @@
   },
   "homepage": "http://framework7.io/vue/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cssnano": "^4.1.10",
     "cssnano-preset-advanced": "^4.0.7",
     "echarts": "^4.2.0-rc.1",
